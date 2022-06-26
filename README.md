@@ -2,7 +2,7 @@
 This project is to write an image watermarking system using Matlab, including embedding of watermark, extraction of watermark, and evaluation of image.  
 
 
-#  How to Use this code system
+#  How to use this code system
 
 # Others
 
