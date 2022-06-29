@@ -4,6 +4,9 @@ This project is to write an image watermarking system using Matlab, including em
 
 #  How to use this code system
 
+
+Note: If the code appears in a garbled format, please choose the appropriate encoding format
+
 # Others
 
 If you have any questions, please do not hesitate to contact me on my WeChat public platform. Here is the QR code for my WeChat public platform.
