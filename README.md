@@ -6,6 +6,7 @@ This project is to write an image watermarking system using Matlab, including em
 
 you can use matlab Command to input help +function name to get how to use it.
 
+![640](https://user-images.githubusercontent.com/102503666/182062723-490997d0-c79c-43b8-9ce1-dc8359b71171.gif)
 
 
 #  How to use this code system
