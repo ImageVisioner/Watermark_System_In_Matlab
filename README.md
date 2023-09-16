@@ -4,7 +4,7 @@ This project is to write an image watermarking system using Matlab, including em
 # Code Function List:
 ![1656606433973](https://user-images.githubusercontent.com/102503666/176729422-dd1502bc-7ac7-46cb-a67f-47a1f79a4a77.jpg)
 
-you can use matlab Command to input help +function name to get how to use it.
+you can use matlab Command to input help +function name to get how to use  it  .
 
 
 
